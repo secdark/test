@@ -1,2 +1,1 @@
-# test
-Just for test
+Just for github.com test repository
